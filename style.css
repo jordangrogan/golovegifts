@@ -1,0 +1,46 @@
+body {
+  background: #f7f5f5;
+  font-family: "Avenir Next", sans-serif;
+}
+
+.crossroads-blue {
+  color: #F79421;
+}
+
+.container {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.top-separation {
+  margin-top:30px;
+}
+
+#questions .row:first-child {
+  margin-top:0 !important;
+}
+
+.btn-primary {
+  background-color: #F79421;
+  border-color: #F79421;
+}
+
+.btn-primary:hover {
+  border-color: #F79421;
+  background-color: #e5e4e4;
+  color: #F79421;
+}
+
+.btn-primary:disabled {
+  border-color: #F79421;
+  background-color: #e5e4e4;
+  color: #F79421;
+}
+
+.thankyou_message {
+  display: none;
+}
+
+.red {
+  color: red;
+}
