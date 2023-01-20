@@ -4,7 +4,7 @@ body {
 }
 
 .crossroads-blue {
-  color: #F79421;
+  color: #459fd3;
 }
 
 .container {
@@ -21,20 +21,20 @@ body {
 }
 
 .btn-primary {
-  background-color: #F79421;
-  border-color: #F79421;
+  background-color: #459fd3;
+  border-color: #459fd3;
 }
 
 .btn-primary:hover {
-  border-color: #F79421;
+  border-color: #459fd3;
   background-color: #e5e4e4;
-  color: #F79421;
+  color: #459fd3;
 }
 
 .btn-primary:disabled {
-  border-color: #F79421;
+  border-color: #459fd3;
   background-color: #e5e4e4;
-  color: #F79421;
+  color: #459fd3;
 }
 
 .thankyou_message {
